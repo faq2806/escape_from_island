@@ -1,0 +1,12 @@
+import pygame
+
+WIDTH, HEIGHT = 1200, 720
+FPS = 60
+FONT_NAME = "arial"
+
+PLAYER_SPEED = 3.2
+SPRINT_MULTIPLIER = 1.8
+MAX_STAMINA = 100.0
+BULLET_SPEED = 7.0
+
+Vec = pygame.math.Vector2
