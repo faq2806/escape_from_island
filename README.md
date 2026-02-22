@@ -1,4 +1,4 @@
-#Escape From Island
+# Escape From Island
 You and a few survivors are trapped in a heavily guarded island. You have to navigate through the places, find the keys and clues required to escape, while also rescuing other survivors alongside you.
 Pick up a gun and ammo to fire against the guards. The gun, the keys and the clues spawn randomly every time.
 There are 3 levels with different difficulties.
